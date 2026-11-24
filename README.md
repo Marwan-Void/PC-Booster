@@ -47,4 +47,4 @@ Once you launch `pc-booster.exe`, use the following commands inside the `>>>` pr
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Marwan-Void/PC-Booster.git](https://github.com/Marwan-Void/PC-Booster.git)
-   cd YOUR_REPO_NAME
+   cd PC-Booster

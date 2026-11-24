@@ -1,4 +1,6 @@
-.build/
+build/
+test.sh
+
 *.exe
 *.out
 *.o
