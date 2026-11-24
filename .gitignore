@@ -1,4 +1,5 @@
-src/*.exe
-src/*.out
-src/*.o
-src/*.obj
+.build/
+*.exe
+*.out
+*.o
+*.obj

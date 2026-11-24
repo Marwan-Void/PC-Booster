@@ -22,7 +22,7 @@ int main(){
             cout << "coming soon.\n";
         } else {
             cerr << "error: unknown command,\nuse \"help\" command to check commands\n";
-        }
+        } // * we wanna handle help [command] 
     }
     return 0;
 }
