@@ -1,6 +1,6 @@
 # 🚀 PC Booster (`pc-booster`)
 
-A fast, lightweight, standalone CLI/REPL utility built in modern C++17 to safely clean up Windows temporary files (`%TEMP%`) and free up disk space without bloatware or external dependencies.
+A fast, lightweight, standalone REPL utility built in modern C++17 to safely clean up Windows temporary files (`%TEMP%`) and free up disk space without bloatware or external dependencies.
 
 ---
 
@@ -21,6 +21,7 @@ Once you launch `pc-booster.exe`, use the following commands inside the `>>>` pr
 | :--- | :--- |
 | `boost` | Scans and cleans safe temporary files in your `%TEMP%` directory. |
 | `help` | Displays available commands and usage instructions. |
+| `help [commands]` | Describe the command you selected. |
 | `exit` | Exits the application cleanly. |
 
 ---
